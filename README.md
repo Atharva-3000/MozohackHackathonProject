@@ -1,2 +1,1 @@
 # MozohackHackathonProject
-# Name :
